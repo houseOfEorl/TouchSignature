@@ -1,0 +1,9 @@
+c:\users\cfc6r22\documents\visual studio 2015\Projects\Test_Touch_Function\bin\Debug\Test_Touch_Function.exe.config
+C:\Users\cfc6r22\Documents\Visual Studio 2015\Projects\Test_Touch_Function\obj\Debug\Test_Touch_Function.Properties.Resources.resources
+C:\Users\cfc6r22\Documents\Visual Studio 2015\Projects\Test_Touch_Function\obj\Debug\Test_Touch_Function.csproj.GenerateResource.Cache
+C:\Users\cfc6r22\Documents\Visual Studio 2015\Projects\Test_Touch_Function\bin\Debug\Test_Touch_Function.exe
+C:\Users\cfc6r22\Documents\Visual Studio 2015\Projects\Test_Touch_Function\bin\Debug\Test_Touch_Function.pdb
+C:\Users\cfc6r22\Documents\Visual Studio 2015\Projects\Test_Touch_Function\obj\Debug\Test_Touch_Function.exe
+C:\Users\cfc6r22\Documents\Visual Studio 2015\Projects\Test_Touch_Function\obj\Debug\Test_Touch_Function.pdb
+C:\Users\cfc6r22\Documents\Visual Studio 2015\Projects\Test_Touch_Function\obj\Debug\Test_Touch_Function.HandSignature.resources
+C:\Users\cfc6r22\Documents\Visual Studio 2015\Projects\Test_Touch_Function\obj\Debug\Test_Touch_Function.csprojResolveAssemblyReference.cache
